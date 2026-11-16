@@ -1,0 +1,6 @@
+# PyTorch and torchvision are installed separately (see README) so that the CUDA build is used.
+numpy==2.5.4
+opencv-python-headless==4.14.0.94
+pandas==3.1.1
+pillow==13.0.0
+scikit-learn==1.9.1
